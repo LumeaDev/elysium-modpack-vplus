@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "59996ccec3daba69cfa3af1bec8a5de8e88cb86e0250db4658fda1f220b98f31"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
 metafile = true
@@ -11,6 +21,26 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "3ae1e6cd38e55ca83236ad4a2c4cd4d82ff9caa27d5e32c2da1f76b2c02703f9"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b8759aeb6d653f17c2acb1bc6cd9633154e4ef0e50a2c8e05c03f35fdc5fca3d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "f9dc092528290f0e8034fa9c8cbe25ba1dc271aab69aaf1045336a20406d0bc6"
 metafile = true
