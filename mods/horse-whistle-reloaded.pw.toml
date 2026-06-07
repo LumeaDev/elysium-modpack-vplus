@@ -1,0 +1,13 @@
+name = "Horse Whistle Reloaded"
+filename = "horse_whistle-S.V-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNZqKyM5/versions/DH1eHs9I/horse_whistle-S.V-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "40b13acbd9028484db6e0da19413192e647cc2c68f04349f42daa3890cea7f9f1e1afccd0479eb12585190cd78bb190a03b5180b20dedb3b61e63a0eddc17cd7"
+
+[update]
+[update.modrinth]
+mod-id = "GNZqKyM5"
+version = "DH1eHs9I"

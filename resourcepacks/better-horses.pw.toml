@@ -1,0 +1,13 @@
+name = "Better Horses"
+filename = "Better Horses 1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/alMAK8J4/versions/4ZFg1dnh/Better%20Horses%201.20.zip"
+hash-format = "sha512"
+hash = "1803dbb8ffeed8b8b9a9aba5356db9eb43094563d0f0bbeabb2b4e201c7f988016092b9502bb20ea15c7b770545f8b161dea364e12b35af7af4bca8701fa0d66"
+
+[update]
+[update.modrinth]
+mod-id = "alMAK8J4"
+version = "4ZFg1dnh"
