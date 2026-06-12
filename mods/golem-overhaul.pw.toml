@@ -1,0 +1,13 @@
+name = "Golem Overhaul"
+filename = "golemoverhaul-fabric-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qEYs2G9A/versions/I3dwFI7N/golemoverhaul-fabric-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "1c6c42101009c103df1bc79112b201e12a9b4029c1213904d8f4c17a1b14c355c5609230729b7c1ae2165b987d20db0f0ef2fb55e9ebcb997d6576818ad73a20"
+
+[update]
+[update.modrinth]
+mod-id = "qEYs2G9A"
+version = "I3dwFI7N"

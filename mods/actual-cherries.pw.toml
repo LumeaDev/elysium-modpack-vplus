@@ -1,0 +1,13 @@
+name = "Actual Cherries"
+filename = "actual_cherries-1.20.x-fabric-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUn6ycwY/versions/acL2lLp2/actual_cherries-1.20.x-fabric-quilt.jar"
+hash-format = "sha512"
+hash = "eebcc4b9cd41aff170f354e196d6ca1f321ee71b992722c02d232e99edc98d0c1843e2d1f6936fc4634f87e22d02f346cd9a2f13d90847c5981fa1caef13749d"
+
+[update]
+[update.modrinth]
+mod-id = "xUn6ycwY"
+version = "acL2lLp2"

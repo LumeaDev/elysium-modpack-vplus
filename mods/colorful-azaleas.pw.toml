@@ -1,0 +1,13 @@
+name = "Colorful Azaleas"
+filename = "ColorfulAzaleas-2.4.0 (1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HDZ49j5G/versions/ZZlbtM52/ColorfulAzaleas-2.4.0%20%281.20.1%29.jar"
+hash-format = "sha512"
+hash = "f98cca125fda768e81570f1e1020f65c6220f7f53ffb3aff1fb8136774e8c4baa30b3e8d18161a8679f3918830abaeaec445501cb8c8e0f4ade8adb8e464c655"
+
+[update]
+[update.modrinth]
+mod-id = "HDZ49j5G"
+version = "ZZlbtM52"

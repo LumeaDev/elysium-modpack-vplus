@@ -1,0 +1,13 @@
+name = "No More Axolotl Despawns!"
+filename = "no-more-axolotl-despawns!-5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dVlPSUI0/versions/z2f8PeMM/no-more-axolotl-despawns%21-5.0.jar"
+hash-format = "sha512"
+hash = "80932ba36f04a762be57e8912684bfa076640cc15ca8ac6a1f55c648247466da5c0dcec5b34bc8e052559cba5607f39e827243c609c8b508953fc6473ddc715f"
+
+[update]
+[update.modrinth]
+mod-id = "dVlPSUI0"
+version = "z2f8PeMM"

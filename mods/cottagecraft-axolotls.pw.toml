@@ -1,0 +1,13 @@
+name = "CottageCraft Axolotls"
+filename = "CottageCraftAxolotls-1.2.2-1.20.1+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5vP6rvh5/versions/QjW7YXyu/CottageCraftAxolotls-1.2.2-1.20.1%2B.jar"
+hash-format = "sha512"
+hash = "1f2a5d10b8e4e02c772723e318941f367089582fef5b9346c1b72b12821b808fc8ebd80568ace87d6c4bb4055e0d4b0df20411e3d812dbd0f4dc914e1ab08bcc"
+
+[update]
+[update.modrinth]
+mod-id = "5vP6rvh5"
+version = "QjW7YXyu"
